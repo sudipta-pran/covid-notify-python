@@ -13,3 +13,4 @@
 ### Channel
 [Pro Pro Programming](https://www.youtube.com/channel/UC80Jvdg3fN_EL4AVQpcrM3w)
 ### Video
+[Covid Vaccination Notification in Python using Cowin public API](https://youtu.be/UApbX9epz2M)
